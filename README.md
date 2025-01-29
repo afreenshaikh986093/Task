@@ -59,7 +59,7 @@ If ChromeDriver issues arise, ensure Chrome is up-to-date or manually install Ch
 
 Run without headless mode for debugging by removing --headless from ChromeOptions.
 
-License
 
-This project is open-source under the MIT License.
+
+
 
